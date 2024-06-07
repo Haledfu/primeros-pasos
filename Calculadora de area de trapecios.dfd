@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+BaMa
+1
+0
+4
+BaMe
+1
+0
+3
+Alt
+1
+0
+4
+1
+23
+'Declare la Base Mayor'
+5
+1
+4
+BaMa
+4
+1
+23
+'Declare la Base Menor'
+5
+1
+4
+BaMe
+4
+1
+19
+'Declare la Altura'
+5
+1
+3
+Alt
+6
+1
+4
+Area
+17
+(BaMa+BaMe)/2*Alt
+4
+1
+35
+'El Area de el trapecio es: ' ,Area
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+SalI
+1
+0
+4
+1
+38
+'porfavor, digite el salario inicial' 
+5
+1
+4
+SalI
+6
+2
+6
+aument
+9
+SalI*0.25
+3
+Saf
+11
+SalI+aument
+4
+1
+53
+'El monto total del nuevo salario a pagar, será' ,Saf
+1

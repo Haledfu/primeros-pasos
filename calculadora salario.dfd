@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+HorasT
+1
+0
+6
+ValorH
+1
+0
+4
+1
+67
+'Declare las Horas trabajadas y El valor por hora del trabajador: '
+5
+1
+14
+HorasT, ValorH
+6
+1
+3
+SAL
+13
+HorasT*ValorH
+4
+1
+54
+'El salario del dia para el trabajador será de: ' ,SAL
+1

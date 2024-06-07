@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+PI
+1
+0
+4
+1
+30
+'Digite el total de su compra'
+5
+1
+2
+PI
+6
+2
+4
+desc
+9
+PI*15/100
+2
+PF
+7
+PI-desc
+4
+1
+43
+'El monto final de su compra sera de: ' ,PF
+1
